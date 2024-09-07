@@ -50,6 +50,10 @@ st.sidebar.markdown("""
 6. **Symptoms description**: When describing symptoms, be as detailed as possible about their nature, duration, and severity.
 7. **Medical history**: If relevant, mention any pertinent medical history or current medications.
 
+
+Use this link to see the dataset the model works well : https://huggingface.co/datasets/viniljpk/pubmedQA_v1
+                    
+
 **Disclaimer**: This AI assistant provides general medical information and should not replace professional medical advice. Always consult with a healthcare professional for personalized medical guidance.
 """)
 
